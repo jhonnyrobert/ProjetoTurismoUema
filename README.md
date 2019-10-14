@@ -11,4 +11,4 @@
 
 
 ### Canvas do Projeto
-![imagem da tela]()
+![imagem da tela](https://github.com/jhonnyrobert/ProjetoTurismoUema/blob/master/Lean%20Canvas.jpg)
