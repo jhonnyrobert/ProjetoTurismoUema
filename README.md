@@ -8,3 +8,7 @@
 
 ![imagem da tela](https://github.com/jhonnyrobert/ProjetoTurismoUema/blob/master/Prototiopo.jpg)
 ###### Imagens Ilustrativas do Prótotipos de Tela da Aplicação
+
+
+### Canvas do Projeto
+![imagem da tela](https://github.com/jhonnyrobert/ProjetoTurismoUema/blob/master/Lean%20Canvas.jpg)
