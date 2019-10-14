@@ -2,7 +2,7 @@
 
 ## Projeto Prático da Cadeira de Banco de Dados e Aplicações (PECS) 2019.2
 
-### Imagens Ilustrativas do Prótotipos de Tela da Aplicação
+### Imagens Ilustrativas dos Prótotipos de Tela da Aplicação
 ![imagem da tela](https://github.com/jhonnyrobert/ProjetoTurismoUema/blob/master/Prototiopo.jpg)
 
 
