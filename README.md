@@ -44,5 +44,5 @@ O projeto será realizado no período de três meses e as atividades técnicas p
 ### Kanban do Projeto no Trello
 ![imagem da tela](https://github.com/jhonnyrobert/ProjetoTurismoUema/blob/master/trello.jpg)
 
-### Modelo entidade relacionamento - DER do Projeto 
+### Modelo Entidade Relacionamento - DER do Projeto 
 ![imagem da tela](https://github.com/jhonnyrobert/ProjetoTurismoUema/blob/master/DER.jpeg)
