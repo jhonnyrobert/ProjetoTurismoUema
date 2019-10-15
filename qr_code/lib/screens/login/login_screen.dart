@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:qr_code/screens/home/home_screen.dart';
 import 'package:qr_code/screens/login/widgets/form_container.dart';
 import 'package:qr_code/screens/login/widgets/sign_up_button.dart';
 import 'package:qr_code/screens/login/widgets/stagger_animation.dart';
@@ -20,6 +21,14 @@ class _LoginScreenState extends State<LoginScreen>
       vsync: this,
       duration: Duration(seconds: 2),
     );
+
+    // chamada da outra tela
+    _animationController.addStatusListener((status) {
+      if (status == AnimationStatus.completed) {
+        Navigator.of(context).pushReplacement(
+            MaterialPageRoute(builder: (context) => HomeScreen()));
+      }
+    });
   }
 
   @override
@@ -37,7 +46,7 @@ class _LoginScreenState extends State<LoginScreen>
       body: Container(
         decoration: BoxDecoration(
           image: DecorationImage(
-              image: AssetImage("images/luz.jpg"), fit: BoxFit.cover),
+              image: AssetImage("images/centro.jpg"), fit: BoxFit.cover),
         ),
         child: ListView(
           padding: EdgeInsets.zero,
