@@ -1,5 +1,6 @@
 # Projeto Prático da Cadeira de Banco de Dados e Aplicações (PECS) 2019.2
-Professor: Luís Carlos Fonseca
+##### Professor 
+Luís Carlos Fonseca
 ##### Equipe
 Alysson Marquezelli
 Gerson de Oliveira
