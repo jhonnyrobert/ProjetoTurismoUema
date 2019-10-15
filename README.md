@@ -2,8 +2,8 @@
 ##### Professor 
 Luís Carlos Fonseca
 ##### Equipe
-Alysson Marquezelli
-Gerson de Oliveira
+Alysson Marquezelli -
+Gerson de Oliveira -
 Jhonny Robert
 
 
